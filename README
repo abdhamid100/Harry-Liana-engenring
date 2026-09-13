@@ -1,0 +1,81 @@
+HARRY LIANA ENGINEERING — WEBSITE README
+==========================================
+
+ABOUT
+-----
+This is the complete static website for Harry Liana's architectural and
+structural engineering services.
+
+CONTENTS
+--------
+- index.html — main website page
+- assets/ — portfolio images and Harry Liana logo
+
+SERVICES
+--------
+1. Retaining wall engineering
+2. Structural beam / load-bearing wall removal
+3. ADU plans and permit drawings
+4. Structural steel fabrication and shop drawings
+
+PE STAMPING
+-----------
+Professional License / PE section:
+"PE stamping will be provided for the projects that require stamping."
+
+FAQ answer:
+"Professional licensed PE stamp can be provided for the projects that require stamping."
+
+The PE license jurisdiction is intentionally left editable.
+
+PROFILE IMAGE
+-------------
+The supplied Harry Liana logo is used in the profile/about section.
+
+CONTACT
+-------
+Name: Harry Liana
+Email: josefliana10@gmail.com
+Fiverr Profile:
+https://www.fiverr.com/harry_liana?public_mode=true
+
+SOFTWARE
+--------
+AutoCAD
+Revit
+STAAD.Pro
+ETABS
+
+PUBLISHING
+----------
+The website is a static HTML site and can be hosted on Cloudflare Pages,
+GitHub Pages, Netlify, or another static hosting service.
+
+Cloudflare Pages setup:
+1. Create a GitHub repository.
+2. Upload index.html to the repository root.
+3. Upload the entire assets folder.
+4. Connect the repository to Cloudflare Pages.
+5. Deploy the site.
+6. Use the generated Pages URL or connect a custom domain.
+
+IMPORTANT
+---------
+Keep index.html and the assets folder together. Image paths in the HTML depend
+on the files remaining in the assets folder.
+
+The portfolio images are presented as samples/illustrative work where
+applicable. Do not add unsupported testimonials, statistics, credentials,
+client claims, or project results.
+
+EDITING
+-------
+Website text, Fiverr links, email, and other settings can be edited in
+index.html.
+
+For future portfolio updates, add the new images to the assets folder and
+update the corresponding image references in index.html.
+
+VERSION
+-------
+September 2026
